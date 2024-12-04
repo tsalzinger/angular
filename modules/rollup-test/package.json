@@ -19,7 +19,7 @@
     "@igorminar/platform-browser": "^0.1.0"
   },
   "devDependencies": {
-    "rollup": "^0.26.0",
+    "rollup": "^4.28.0",
     "rollup-plugin-node-resolve": "^1.5.0",
     "rollup-plugin-typescript": "^0.7.3",
     "rollup-plugin-uglify": "^0.3.1",
